@@ -11,3 +11,8 @@ and at the end we have the detail of notebook's errors
 update 21/06 : 
 
 We have now the phi3_test notebook who works with ssp cloud and a beginning of the demo on how the tokenizer works. 
+
+update 28/06 : 
+
+I have added the test of Pychest and an update of the phi3_test notebook
+
